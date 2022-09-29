@@ -1,0 +1,11 @@
+087dba0ba94556ef011c5b3e464dfafb *DESCRIPTION
+4d14d4e4153f64f51f21771354617c14 *NAMESPACE
+d24fe253eff4ee724fa5d3ab02af1a5b *R/data.R
+046cdb62c5bc505cff81ee82a1a6d9cc *R/functions.R
+1f19326a2e67bb46d1b81eab92a1706c *R/pte.survival.R
+df4de24aaf174de29dd45c3024f5d63b *data/sysdata.rda
+dd61f7416dacf058bfddf71c2e3910d3 *man/data.example.Rd
+67e83877d24de4b1abf95778e7d702a3 *man/figures/README-example-1.png
+ed1dae9f1226297218330ecae989b1ea *man/pte.survival.Rd
+b201eee0159a2e0b9393ab6a15eb9e8c *tests/testthat.R
+8030bed960a202329a7705fa8a71642b *tests/testthat/tests.R
